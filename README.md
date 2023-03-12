@@ -1,4 +1,3 @@
 # monicashen
-An intro to start
-:smiley: Welcome to my GitHub!
+:smiley: Welcome to my GitHub!<br>
 :wink: Always ready for study morrre! 
